@@ -34,6 +34,12 @@
   </li>
   <li>I don't believe in free time; I believe in free throws. Best way to spend those extra moments! 🏀</li>
 </ul>
+
+<h4>📫 Contact : </h4>
+<hr/>
+<ul>
+  <li>For a Quick response, DM Me on <a href="https://www.linkedin.com/in/sam-jonath/">LinkedIn</a></li>
+</ul>
 <!--
 **samjonath/samjonath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
