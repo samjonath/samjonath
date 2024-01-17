@@ -44,6 +44,8 @@
 <a href="https://visitcount.itsvg.in" >
   <img src="https://visitcount.itsvg.in/api?id=samjonath&label=Profile%20Views&color=10&icon=1&pretty=true" width="140px" height="30px"/>
 </a>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 **samjonath/samjonath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
