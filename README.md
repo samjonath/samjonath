@@ -20,6 +20,10 @@
   <li>MongoDB | SQL </li>
   <li> Git | Azure | Github </li>
 </ul>
+<h4>🚀Highlights : </h4>
+<ul>
+  <li>Graduated Amrita University in 2023 <img src="https://www.careerguide.com/career/wp-content/uploads/2023/07/Amrita-University.png" ></li>
+</ul>
 <!--
 **samjonath/samjonath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
