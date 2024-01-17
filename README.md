@@ -1,5 +1,10 @@
 <h3>Hey, I'm sam jonath 👋</h3>
 <p>a passionate full-stack developer who graduated mid-last year. I thrive on crafting innovative solutions and diving deep into the tech cosmos. My journey in the world of code is fueled by a love for creativity and the thrill of fixing tech puzzles.</p>
+
+<h4>What i do: </h4>
+<ul>
+  <li>full stack magic ✨</li>
+</ul>
 <!--
 **samjonath/samjonath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
