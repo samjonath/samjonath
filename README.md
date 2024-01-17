@@ -41,7 +41,7 @@
   <li>For a Quick response, DM Me on <a href="https://www.linkedin.com/in/sam-jonath/">LinkedIn</a></li>
 </ul>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?quote=MyQuote)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <a href="https://visitcount.itsvg.in" >
   <img src="https://visitcount.itsvg.in/api?id=samjonath&label=Profile%20Views&color=10&icon=1&pretty=true" width="160px" height="30px"/>
