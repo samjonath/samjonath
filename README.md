@@ -1,3 +1,4 @@
+[![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=monokai)](https://github.com/Vishal-beep136/github-readme-quotify)
 <h3>Hey, I'm sam jonath 👋</h3>
 <p>a passionate full-stack developer who graduated mid-last year. I thrive on crafting innovative solutions and diving deep into the tech cosmos. My journey in the world of code is fueled by a love for creativity and the thrill of fixing tech puzzles.</p>
 <ul>
@@ -42,9 +43,8 @@
 </ul>
 
 <a href="https://visitcount.itsvg.in" >
-  <img src="https://visitcount.itsvg.in/api?id=samjonath&label=Profile%20Views&color=10&icon=1&pretty=true" width="140px" height="30px"/>
+  <img src="https://visitcount.itsvg.in/api?id=samjonath&label=Profile%20Views&color=10&icon=1&pretty=true" width="160px" height="30px"/>
 </a>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **samjonath/samjonath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
