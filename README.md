@@ -6,9 +6,13 @@
   <li>Stay updated with my journey on <a href="https://www.linkedin.com/in/sam-jonath/">Linkedin</a></li>
 </ul>
 <h4>What i do: </h4>
+<hr/>
 <ul>
   <li>full stack magic ✨</li>
+  <li>Creative Problem Solving 🎨</li>
+  <li>Machine Learning 🧠</li>
 </ul>
+
 <!--
 **samjonath/samjonath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
