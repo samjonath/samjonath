@@ -42,7 +42,7 @@
 </ul>
 
 <a href="https://visitcount.itsvg.in" >
-  <img src="https://visitcount.itsvg.in/api?id=samjonath&label=Profile%20Views&color=10&icon=1&pretty=true" width="60px" height="30px"/>
+  <img src="https://visitcount.itsvg.in/api?id=samjonath&label=Profile%20Views&color=10&icon=1&pretty=true" width="120px" height="30px"/>
 </a>
 <!--
 **samjonath/samjonath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
