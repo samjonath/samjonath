@@ -5,14 +5,21 @@
   <li>Explore my Blog where i share my insights and learnings.</li>
   <li>Stay updated with my journey on <a href="https://www.linkedin.com/in/sam-jonath/">Linkedin</a></li>
 </ul>
-<h4>What i do: </h4>
+<h4>💻What I Do: </h4>
 <hr/>
 <ul>
   <li>full stack magic ✨</li>
   <li>Creative Problem Solving 🎨</li>
   <li>Machine Learning 🧠</li>
 </ul>
-
+<h4>🌐Tech Stacks: </h4>
+<hr/>
+<ul>
+  <li>JavaScript | React | Node.js | Python | C++ </li>
+  <li>HTML | CSS | BootStrap </li>
+  <li>MongoDB | SQL </li>
+  <li> Git | Azure | Github </li>
+</ul>
 <!--
 **samjonath/samjonath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
