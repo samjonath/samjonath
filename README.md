@@ -14,22 +14,17 @@
 </ul>
 <h4>🌐Tech Stacks: </h4>
 <hr/>
-<ul>
-  <li>JavaScript | React | Node.js | Python | C++ </li>
-  <li>HTML | CSS | BootStrap </li>
-  <li>MongoDB | SQL </li>
-  <li> Git | Azure | Github </li>
   
-**Frontend Development:** `React` `Next.js` `Material-UI` `Framer-Motion` `Mantine`
+**Frontend Development:**  `React` `Next.js` `Material-UI` `Framer-Motion` `Mantine`
  
-**Version Control:** `Git` `GitHub` `Azure` `AzureAD`
+**Version Control:**  `Git` `GitHub` `Azure` `AzureAD`
 
-**Backend Development:** `Node.js` `pythom (Flask)` `GraphQL` `Firebase` `Django` `MongoDB`
+**Backend Development:**  `Node.js` `pythom (Flask)` `GraphQL` `Firebase` `Django` `MongoDB`
 
-**Testing:**  `Postman`
+**Testing:**   `Postman`
 
-**Others:**  `Docker` `Scrum` `JWT` `RBAC`
-</ul>
+**Others:**   `Docker` `Scrum` `JWT` `RBAC`
+
 <h4>🚀Highlights : </h4>
 <hr/>
 <ul>
