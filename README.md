@@ -8,7 +8,7 @@
 <h4>💻What I Do: </h4>
 <hr/>
 <ul>
-  <li>full stack magic ✨</li>
+  <li>full stack development ✨</li>
   <li>Creative Problem Solving 🎨</li>
   <li>Machine Learning 🧠</li>
 </ul>
