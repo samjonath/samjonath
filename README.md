@@ -34,9 +34,6 @@
 <h4>✨Fun Facts</h4>
 <hr/>
 <ul>
-  <li>
-    Love to have a friendly debate. 
-  </li>
   <li>I don't believe in free time; I believe in free throws. Best way to spend those extra moments! 🏀</li>
 </ul>
 
