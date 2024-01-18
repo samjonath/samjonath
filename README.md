@@ -19,15 +19,16 @@
   <li>HTML | CSS | BootStrap </li>
   <li>MongoDB | SQL </li>
   <li> Git | Azure | Github </li>
-  **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+  
+**Frontend Development:** `React` `Next.js` `Material-UI` `Framer-Motion` `Mantine`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Version Control:** `Git` `GitHub` `Azure` `AzureAD`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase`
+**Backend Development:** `Node.js` `pythom (Flask)` `GraphQL` `Firebase` `Django` `MongoDB`
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+**Testing:**  `Postman`
 
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+**Others:**  `Docker` `Scrum` `JWT` `RBAC`
 </ul>
 <h4>🚀Highlights : </h4>
 <hr/>
