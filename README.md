@@ -15,13 +15,15 @@
 <h4>🌐Tech Stacks: </h4>
 <hr/>
   
-**Frontend Development:**  `React` `Next.js` `Material-UI` `Framer-Motion` `Mantine`
+**Frontend Development:**  `React` `Next.js` `Material-UI` `Framer-Motion` `Mantine` `HTML` `CSS`
  
 **Version Control:**  `Git` `GitHub` `Azure` `AzureAD`
 
 **Backend Development:**  `Node.js` `pythom (Flask)` `GraphQL` `Firebase` `Django` `MongoDB`
 
 **Testing:**   `Postman`
+
+**Machine Learning:**   `Python` `TensorFlow` `Numpy` `Pandas` `NN` `NLP`
 
 **Others:**   `Docker` `Scrum` `JWT` `RBAC`
 
