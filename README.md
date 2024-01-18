@@ -25,12 +25,6 @@
 
 **Others:**   `Docker` `Scrum` `JWT` `RBAC`
 
-<h4>🚀Highlights : </h4>
-<hr/>
-<ul>
-  <li>Graduated Amrita University in 2023 &nbsp; &nbsp; <img src="https://www.careerguide.com/career/wp-content/uploads/2023/07/Amrita-University.png"  width="72" height="20" ></li>
-  <li>Currently seeking my next tech Adventure! </li>
-</ul>
 <h4>✨Fun Facts</h4>
 <hr/>
 <ul>
