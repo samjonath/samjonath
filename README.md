@@ -19,6 +19,15 @@
   <li>HTML | CSS | BootStrap </li>
   <li>MongoDB | SQL </li>
   <li> Git | Azure | Github </li>
+  **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Backend Development:** `Nest.js` `GraphQL` `Firebase`
+
+**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+
+**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
 </ul>
 <h4>🚀Highlights : </h4>
 <hr/>
@@ -62,3 +71,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ 
