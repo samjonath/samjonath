@@ -6,28 +6,13 @@
 
 Full-stack engineer with **3 years** of building production systems, most of them in fintech. I like owning things end to end, from the data model and backend services to the UI people use.
 
-### `02` experience
-
-```text
-2025 — now   KEA CREDIT ............. software engineer
-             invoice-financing platform, end to end
-             onboarding → disbursement → settlement → lender payouts
-             $3.2M peak capital deployed
-
-2024 — 25    IMPERIAL (RUIA GROUP) .. full-stack engineer
-             yogashala: operations platform for a multi-studio yoga business
-
-2023         AB INBEV ............... swe intern
-             malt: financial reconciliation platform for vendor ledgers
-```
-
-### `03` open source
+### `02` open source
 
 | status | repo | contribution |
 |:--|:--|:--|
 | `merged` | [actualbudget/actual#9529](https://github.com/actualbudget/actual/pull/9529) | fix bank balances shown wrong or crashing when linking accounts |
 
-### `04` stack
+### `03` stack
 
 | layer | tools |
 |:--|:--|
