@@ -1,35 +1,26 @@
-<h3>Hey, I'm Sam Jonath 👋</h3>
-<p>Full-stack engineer who works across smart contracts, frontend, backend, and the data layer underneath. Most of my work has been in fintech. I like taking systems from idea to production and understanding how the whole thing fits together.</p>
-<ul>
-  <li>See more of my work on my <a href="https://samjonath.xyz">portfolio</a>.</li>
-  <li>Connect with me on <a href="https://www.linkedin.com/in/sam-jonath/">LinkedIn</a>.</li>
-</ul>
+### Hey, I'm Sam Jonath 👋
 
-<h4>💻 What I Do</h4>
-<hr/>
-<ul>
-  <li>Full-stack development — end to end, frontend to backend ✨</li>
-  <li>Building and shipping production systems 🛠️</li>
-  <li>Smart contracts & on-chain applications ⛓️</li>
-</ul>
+Full-stack engineer with 3 years building production **fintech** systems. I work on money movement, settlement and reconciliation, and systems that stay correct when things partially fail.
 
-<h4>🌐 Tech Stack</h4>
-<hr/>
+[Portfolio](https://samjonath.xyz) · [LinkedIn](https://www.linkedin.com/in/sam-jonath/)
 
-**Languages:** `TypeScript` `JavaScript` `Python` `Solidity` `Go` `C/C++`
+#### 💼 Experience
 
-**Frontend:** `React` `Next.js` `Redux` `Mantine` `Framer Motion` `HTML` `CSS`
+- **Kea Credit**, Software Engineer (2025 – now): I own an SME invoice-financing pipeline from onboarding to disbursement, settlement and reconciliation, and lender payouts. It has financed $3.2M at peak.
+- **Imperial (Ruia Group)**, Full-Stack Engineer (2024 – 25): built Yogashala, the operations platform for a multi-studio yoga business.
+- **AB InBev**, SWE Intern (2023): built MALT, a financial reconciliation platform for vendor ledgers.
 
-**Backend:** `Node.js` `Express` `Django` `Flask` `REST` `GraphQL` `JWT`
+#### 🌱 Open Source
 
-**Blockchain:** `Ethereum/EVM` `Hedera HTS` `ethers.js` `Web3.js` `Smart Contracts`
+| Project | Contribution | Status |
+|---|---|---|
+| [Actual Budget](https://github.com/actualbudget/actual) | [Fix bank account balances shown wrong or crashing when linking accounts](https://github.com/actualbudget/actual/pull/9529) | ✅ Merged |
 
-**Databases:** `PostgreSQL` `MongoDB` `MySQL/MSSQL` `Supabase` `Firebase`
+#### 🛠️ Stack
 
-**DevOps & Tools:** `Git` `Docker` `AWS` `Azure` `Nginx` `PM2` `Linux` `CI/CD`
-
-<h4>📫 Contact</h4>
-<hr/>
-<ul>
-  <li>For a quick response, DM me on <a href="https://www.linkedin.com/in/sam-jonath/">LinkedIn</a>.</li>
-</ul>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp&perline=12" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,django,flask&perline=12" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&perline=12" alt="Data" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,githubactions&perline=12" alt="Infrastructure" />
+</p>
