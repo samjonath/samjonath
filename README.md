@@ -10,6 +10,7 @@ Full-stack engineer with **3 years** of building production systems, most of the
 
 | status | repo | contribution |
 |:--|:--|:--|
+| `merged` | [redis/node-redis#3616](https://github.com/redis/node-redis/pull/3616) | fix client-side cache serving stale SORT_RO, XINFO and MEMORY USAGE results |
 | `merged` | [actualbudget/actual#9529](https://github.com/actualbudget/actual/pull/9529) | fix bank balances shown wrong or crashing when linking accounts |
 
 ### `03` stack
