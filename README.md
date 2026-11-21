@@ -10,6 +10,7 @@ Full-stack engineer with **3 years** of building production systems, most of the
 
 | status | repo | contribution |
 |:--|:--|:--|
+| `merged` | <a href="https://github.com/actualbudget/actual/pull/9539"><img src="https://img.shields.io/badge/actualbudget%2Factual%20%239539-161b22?style=flat-square&logo=actualbudget&logoColor=6B46C1" alt="actualbudget/actual#9539" /></a> | fix reconciling with hidden decimals creating an adjustment for the hidden cents |
 | `merged` | <a href="https://github.com/redis/node-redis/pull/3616"><img src="https://img.shields.io/badge/redis%2Fnode--redis%20%233616-161b22?style=flat-square&logo=redis&logoColor=FF4438" alt="redis/node-redis#3616" /></a> | fix client-side cache serving stale SORT_RO, XINFO and MEMORY USAGE results |
 | `merged` | <a href="https://github.com/actualbudget/actual/pull/9529"><img src="https://img.shields.io/badge/actualbudget%2Factual%20%239529-161b22?style=flat-square&logo=actualbudget&logoColor=6B46C1" alt="actualbudget/actual#9529" /></a> | fix bank balances shown wrong or crashing when linking accounts |
 
